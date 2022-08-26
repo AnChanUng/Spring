@@ -24,7 +24,7 @@ https://cookie.tistory.com/category/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%
 #
 
 # 스프링 핵심 원리 - 기본편
-📌수강기간 : 2022.08.01 ~ ing
+📌수강기간 : 2022.08.03 ~ 08.25
 
 📝목차
 1. 객체 지향 설계와 스프링
@@ -49,3 +49,22 @@ https://cookie.tistory.com/category/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%
 
 https://cookie.tistory.com/category/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC%20%EA%B8%B0%EB%B3%B8%ED%8E%B8
 
+# 모든 개발자를 위한 HTTP 웹 기본 지식
+📌수강기간 : 2022.08.26 ~ ing
+
+📝목차
+1. 인터넷 네트워크
+ 
+2. URI와 웹 브라우저 요청 흐름
+ 
+3. HTTP 기본
+ 
+4. HTTP 메서드
+ 
+5. HTTP 메서드 활용
+ 
+6. HTTP 상태코드
+ 
+7. HTTP 헤더1 - 일반헤더
+
+8. HTTP 헤더2 - 캐시와 조건부 요청
