@@ -51,7 +51,7 @@ https://cookie.tistory.com/category/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%
 #
 
 # 모든 개발자를 위한 HTTP 웹 기본 지식
-📌수강기간 : 2022.08.26 ~ ing
+📌수강기간 : 2022.08.26 ~ 08.29
 
 📝목차
 1. 인터넷 네트워크
@@ -69,3 +69,13 @@ https://cookie.tistory.com/category/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%95%
 7. HTTP 헤더1 - 일반헤더
 
 8. HTTP 헤더2 - 캐시와 조건부 요청
+
+✔모든 개발자를 위한 HTTP 웹 기본 지식 - 내용정리
+
+https://cookie.tistory.com/category/Spring/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8%20%EC%A7%80%EC%8B%9D
+#
+
+# 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
+📌수강기간 : 2022.08.30 ~ ing
+
+📝목차
