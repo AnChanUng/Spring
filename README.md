@@ -76,7 +76,7 @@ https://cookie.tistory.com/category/Spring/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8
 #
 
 # 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
-📌수강기간 : 2022.08.30 ~ ing
+📌수강기간 : 2022.08.30 ~ 09.11
 
 📝목차
 1. 웹 애플리케이션 이해
@@ -96,6 +96,6 @@ https://cookie.tistory.com/category/Spring/HTTP%20%EC%9B%B9%20%EA%B8%B0%EB%B3%B8
 #
 
 # 스프링 MVC 2편 - 백엔드 웹 개발 핵심 기술
-📌수강기간 : 2022.08.30 ~ ing
+📌수강기간 : 2022.09.12 ~ ing
 
 📝목차
