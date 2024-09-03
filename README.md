@@ -7,4 +7,6 @@
 - 📋스프링부트와 JPA활용1
 - 📋자바 ORM 표준 JPA 프로그래밍 - 기본편
 
+  
+![image](https://github.com/user-attachments/assets/420e30b1-c63c-4f17-b97e-ae499e36b78c)
 https://good-abacus-b37.notion.site/Spring-27a7c7c27b664bdc944372c5d8beb2e7?pvs=4
