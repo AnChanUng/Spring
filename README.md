@@ -6,3 +6,5 @@
 - 📋스프링 웹 MVC 2편
 - 📋스프링부트와 JPA활용1
 - 📋자바 ORM 표준 JPA 프로그래밍 - 기본편
+
+https://good-abacus-b37.notion.site/Spring-27a7c7c27b664bdc944372c5d8beb2e7?pvs=4
