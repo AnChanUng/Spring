@@ -29,6 +29,7 @@
 - 📚 토비의 스프링 3.1 2편
 
 ## JPA
+자바 ORM 표준 JPA 프로그래밍 - 기본편
 - [JPA](https://good-abacus-b37.notion.site/JPA-1a1c64f6820381cbb6bacea5ad859e3f?pvs=4)
 - [ORM](https://good-abacus-b37.notion.site/JPA-ORM-1a1c64f6820381e8a54be684cac27abc?pvs=4)
 - [annotation](https://good-abacus-b37.notion.site/JPA-anotation-1a1c64f6820381eb8f00cfc3a33e4523?pvs=4)
