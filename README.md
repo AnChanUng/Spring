@@ -27,9 +27,6 @@
 - 📚 자바 ORM 표준 JPA 프로그래밍 ✅
 - 📚 토비의 스프링 3.1 1편
 - 📚 토비의 스프링 3.1 2편
-- 📚 자바의 정석 ✅
-- 📚 모던 자바 인 액션
-- 📚 이펙티브 자바
 
 ## JPA
 - [JPA](https://good-abacus-b37.notion.site/JPA-1a1c64f6820381cbb6bacea5ad859e3f?pvs=4)
